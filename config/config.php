@@ -22,7 +22,7 @@ $authToken = "6e91dbbee42743185c33d202da983f20";
 $twilioPhoneNumber = "+441158242766";
 $siteURL="YOUR SITE URL";
 
-/*
+
 
 
 
@@ -33,7 +33,7 @@ $slackWebHookURL="https://hooks.slack.com/services/T3GGAVAC8/B3HA9HZPF/amxcBP8nS
 $slackRoom = “#general”;
 $slackBotName = "Stanley"; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
-
+/*
 
 // Database Stuff
 $dbHost = "eu-cdbr-west-01.cleardb.com";
