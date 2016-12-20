@@ -2,7 +2,7 @@
 // index.php
 
 require('includes/Twilio.php');
-//include('config/config.php');
+include('config/config.php');
 include('includes/functions.php');
 include('config/messages.php');
 
