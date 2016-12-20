@@ -12,28 +12,28 @@ date_default_timezone_set('America/New_York');
 // General
 $projectName="STANLEY";
 $projectEmail="stanley@ideo.com";
-$projectPhoneNumber="YOUR PHONE NUMBER";
+$projectPhoneNumber=“+447880956858”;
 
 
 // Twilio API credentials
-$accountSid = "YOUR ACCOUNT SID";
-$authToken = "YOUR ACCOUNT TOKEN"; //
-$twilioPhoneNumber = "YOUR TWILIO PHONE NUMBER";
+$accountSid = "AC757d0eb0be0ec736ded764bbd2fcdb83";
+$authToken = "6e91dbbee42743185c33d202da983f20"; //
+$twilioPhoneNumber = "+441158242766";
 $siteURL="YOUR SITE URL";
 
 
 // Slack Webhook integration
-$slackWebHookURL="YOUR SLACK PRIVATE CHANNEL WEB HOOK";
-$slackRoom = "THE NAME OF YOUR SLACK ROOM";
+$slackWebHookURL="https://hooks.slack.com/services/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";
+$slackRoom = “general”;
 $slackBotName = "Stanley"; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
 
 
 // Database Stuff
-$dbHost = "THE DATABASE HOST ADDRESS";
-$dbName = "THE DATABASE NAME";
-$dbUserName = "THE DATABASE USERNAME";
-$dbPassword = "THE DATABASE PASSWORD";
+$dbHost = "eu-cdbr-west-01.cleardb.com";
+$dbName = "heroku_4b454c1c4675090";
+$dbUserName = "bcaf06892c8ef8";
+$dbPassword = "b1f500ac";
 $dbTable = "THE NAME OF THE DATABASE TABLE";
 
 $dbConnection = mysqli_connect($dbHost, $dbUserName, $dbPassword,$dbName);
