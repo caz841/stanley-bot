@@ -8,9 +8,10 @@ ini_set('display_errors', 1);
 
 // set local timezone
 date_default_timezone_set('America/New_York');
-/*
+
 // General
 $projectName = "STANLEY”;
+/*
 $projectEmail = “”;
 $projectPhoneNumber = “”;
 
