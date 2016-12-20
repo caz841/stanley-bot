@@ -12,7 +12,7 @@ date_default_timezone_set('America/New_York');
 
 
 // General
-//$projectName = “Test”;
+$projectName = “Test”;
 $projectEmail = “hello”;
 $projectPhoneNumber = “123”;
 
