@@ -8,26 +8,15 @@ ini_set('display_errors', 1);
 
 // set local timezone
 date_default_timezone_set('America/New_York');
-
+/*
 // General
 $projectName = "STANLEY”;
 $projectEmail = “”;
 $projectPhoneNumber = “”;
 
 
-// Database Stuff
-$dbHost = "eu-cdbr-west-01.cleardb.com";
-$dbName = "heroku_4b454c1c4675090";
-$dbUserName = "bcaf06892c8ef8";
-$dbPassword = "b1f500ac";
-$dbTable = “test”;
-
-$dbConnection = mysqli_connect($dbHost, $dbUserName, $dbPassword,$dbName);
-mysqli_error($dbConnection);
 
 
-
-/*
 
 // Twilio API credentials
 $accountSid = "MG24ce25644cc24da37b0d67b73a093688”;
