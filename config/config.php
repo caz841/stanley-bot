@@ -16,15 +16,16 @@ date_default_timezone_set('America/New_York');
 $projectEmail = “hello”;
 $projectPhoneNumber = “123”;
 
+// Twilio API credentials
+//$accountSid = "MG24ce25644cc24da37b0d67b73a093688”;
+$authToken = "6e91dbbee42743185c33d202da983f20"; 
+$twilioPhoneNumber = “441158242766";
+$siteURL="YOUR SITE URL";
 
 /*
 
 
-// Twilio API credentials
-$accountSid = "MG24ce25644cc24da37b0d67b73a093688”;
-$authToken = "6e91dbbee42743185c33d202da983f20"; 
-$twilioPhoneNumber = “441158242766";
-$siteURL="YOUR SITE URL";
+
 
 
 // Slack Webhook integration
