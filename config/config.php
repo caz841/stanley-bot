@@ -24,7 +24,7 @@ $siteURL="YOUR SITE URL";
 
 // Slack Webhook integration
 $slackWebHookURL="https://hooks.slack.com/services/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";
-$slackRoom = “general”;
+$slackRoom = “#general”;
 $slackBotName = "Stanley"; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
 
