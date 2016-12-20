@@ -16,9 +16,9 @@ $projectPhoneNumber=“+447880956858”;
 
 
 // Twilio API credentials
-$accountSid = "AC757d0eb0be0ec736ded764bbd2fcdb83";
+$accountSid = "AC757d0eb0be0ec736ded764bbd2fcdb83;
 $authToken = "6e91dbbee42743185c33d202da983f20"; //
-$twilioPhoneNumber = "+441158242766";
+$twilioPhoneNumber = “+441158242766";
 $siteURL="YOUR SITE URL";
 
 
