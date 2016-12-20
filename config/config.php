@@ -10,7 +10,7 @@
 date_default_timezone_set('America/New_York');
 
 // General
-$projectName="STANLEY";
+$projectName="STANLEY;
 $projectEmail="stanley@ideo.com";
 $projectPhoneNumber=“+447880956858”;
 
