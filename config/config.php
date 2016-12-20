@@ -34,7 +34,7 @@ $dbHost = "eu-cdbr-west-01.cleardb.com";
 $dbName = "heroku_4b454c1c4675090";
 $dbUserName = "bcaf06892c8ef8";
 $dbPassword = "b1f500ac";
-$dbTable = "THE NAME OF THE DATABASE TABLE";
+$dbTable = “test”;
 
 $dbConnection = mysqli_connect($dbHost, $dbUserName, $dbPassword,$dbName);
 mysqli_error($dbConnection);
