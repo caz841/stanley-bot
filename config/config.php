@@ -20,13 +20,13 @@ $projectPhoneNumber = “123”;
 $accountSid = "AC757d0eb0be0ec736ded764bbd2fcdb83";
 $authToken = "6e91dbbee42743185c33d202da983f20"; 
 $twilioPhoneNumber = "+441158242766";
-$siteURL="YOUR SITE URL";
+$siteURL="https://aldoapp.herokuapp.com/";
 
 
 // Slack Webhook integration
 $slackWebHookURL="https://hooks.slack.com/services/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";
 $slackRoom = "#general";
-$slackBotName = "Stanley"; //THE NAME OF YOUR BOT
+$slackBotName = “Pickles”; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
 
 
