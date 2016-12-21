@@ -28,19 +28,19 @@ $slackWebHookURL="https://hooks.slack.com/services/T3GGAVAC8/B3HA9HZPF/amxcBP8nS
 $slackRoom = "#general";
 $slackBotName = "Stanley"; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
-/*
+
 
 // Database Stuff
 $dbHost = "eu-cdbr-west-01.cleardb.com";
 $dbName = "heroku_4b454c1c4675090";
 $dbUserName = "bcaf06892c8ef8";
 $dbPassword = "b1f500ac";
-$dbTable = “test”;
+$dbTable = "test";
 
 $dbConnection = mysqli_connect($dbHost, $dbUserName, $dbPassword,$dbName);
 mysqli_error($dbConnection);
 
-
+/*
 // Responses setup (when you need an automated response to users - i.e. when the team is away or the session is over)
 $automatedResponseOver="n"; // options: y | n 
 $automatedResponseTeamSleeping ="n"; // options: y | n 
