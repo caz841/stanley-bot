@@ -40,7 +40,7 @@ $dbTable = "test";
 $dbConnection = mysqli_connect($dbHost, $dbUserName, $dbPassword,$dbName);
 mysqli_error($dbConnection);
 
-/*
+
 // Responses setup (when you need an automated response to users - i.e. when the team is away or the session is over)
 $automatedResponseOver="n"; // options: y | n 
 $automatedResponseTeamSleeping ="n"; // options: y | n 
@@ -57,5 +57,5 @@ $http = new Services_Twilio_TinyHttp(
     )));
 
 $client = new Services_Twilio($accountSid, $authToken, "2010-04-01", $http);
-*/
+
 ?>
